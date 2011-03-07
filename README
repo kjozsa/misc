@@ -1,0 +1,4 @@
+miscellaneous stuff
+
+xirr.rb - implements Excel's XIRR algorithm in Ruby
+
